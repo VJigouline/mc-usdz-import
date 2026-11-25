@@ -27,3 +27,4 @@ yarn-error.log*
 
 # Locally generated
 /package-lock.json
+*.log
